@@ -77,11 +77,26 @@ color: red;
 
 }
 
+#a
 
-#imge td+{
-    background-image: url('../images/14.jpg');
-    height: 500px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+{
+    position: relative;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 1px solid rebeccapurple;
+    text-align:center ;
+    text-transform: capitalize;
+    padding-bottom: 10px;
+
+}
+#a h3{
+    font-size: 30px;
+padding: 50px;
+}
+img{
+    height: 30%;
+    width:30%;
+    float: left;
+    margin: 1.6%;
+
 }
